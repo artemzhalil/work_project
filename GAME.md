@@ -1,0 +1,1 @@
+echo 'Brawl Stars' > GAME.md
